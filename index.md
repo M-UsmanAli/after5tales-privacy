@@ -2,7 +2,7 @@
 
 **Effective date:** November 21, 2026
 
-After 5 Tales ("the app") is a collection of bedtime stories, motivation and guides, published by M Usman Ali (codeafter_5).
+After 5 Tales ("the app") is a collection of bedtime stories, motivation and guides, published by Muhammad Usman Ali (codeafter_5).
 
 ## 1. Information we collect
 The app does not collect, store or share any personal information. It has no accounts or login, and it does not ask for your name, email address, location, contacts, photos or any other personal data.
